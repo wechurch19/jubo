@@ -3,9 +3,9 @@
 // ─────────────────────────────────────────────
 window.CHURCH_APP = {
   // ① 교회 이름 (예: '은혜교회')
-  church: '우리교회',
+  church: '우리는교회',
 
   // ② 구글 앱스 스크립트에서 배포한 '웹 앱 주소'를 따옴표 안에 붙여 넣으세요.
   //    https://script.google.com/macros/s/ 로 시작해서 /exec 로 끝나는 주소입니다.
-  exec: '여기에-웹앱-주소를-붙여넣으세요'
+  exec: 'https://script.google.com/macros/s/AKfycbyJChwNYYQlg7Y0uMSY7NZdXl5-sp47dp0a92weLMfS0JIGGQhiXe-A_lPaQnRp-lcqUw/exec'
 };
